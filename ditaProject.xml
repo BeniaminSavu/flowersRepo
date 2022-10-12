@@ -17,22 +17,22 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Flowers-32" name="Flowers">
+    <deliverable id="Flowers-1" name="Flowers">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_templates_gallery-4" name="Flowers templates gallery">
+    <deliverable id="Flowers_templates_gallery-2" name="Flowers templates gallery">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_invalid_templates_path-5" name="Flowers invalid templates path">
+    <deliverable id="Flowers_invalid_templates_path-3" name="Flowers invalid templates path">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Beni_deliverable-33" name="Beni deliverable">
+    <deliverable id="Beni_deliverable-4" name="Beni deliverable">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
