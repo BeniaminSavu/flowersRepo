@@ -22,11 +22,6 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_templates_gallery-2" name="Flowers templates gallery">
-        <context idref="flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="Flowers_invalid_templates_path-3" name="Flowers invalid templates path">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
