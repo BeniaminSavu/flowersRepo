@@ -4,4 +4,9 @@
         <input href="../flowers.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-Test-1714053440405" name="Test">
+        <context idref="FmYEMRwrXgrBRgG"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
